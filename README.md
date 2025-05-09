@@ -1,4 +1,7 @@
+
 # Signal Analysis & Classification Tool
+![Screenshot 2025-05-09 at 16 08 45](https://github.com/user-attachments/assets/c2b27ba7-87aa-4027-aeca-b67d7e730a1f)
+
 
 This project provides an interactive PyQt5-based GUI application for generating, analyzing, and classifying various types of signals. It supports time-domain, frequency-domain, wavelet, and energy distribution analysis of synthetic and audio signals.
 
