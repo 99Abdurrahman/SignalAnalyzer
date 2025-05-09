@@ -75,7 +75,3 @@ The main GUI includes:
 ## 📤 Export Options
 
 - Save current plot view in PNG, PDF, SVG formats using the GUI.
-
-## 📄 License
-
-This project is licensed under the MIT License.
